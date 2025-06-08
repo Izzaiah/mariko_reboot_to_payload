@@ -2,7 +2,7 @@
 This is for patched Mariko or Erista systems. Basically meaning you require a mod chip to homebrew.
 
 ## What it does
-Causes your system to gracefully reboot. No more holding your precious power button and waring it down. 
+Causes your system to gracefully reboot. No more holding your precious power button and wearing it down. 
 
 
 ## Why it's here
